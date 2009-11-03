@@ -1,8 +1,8 @@
 Package: fds
 Type: Package
 Title: Functional data sets
-Version: 1.1
-Date: 2009-10-08
+Version: 1.2
+Date: 2009-11-03
 Depends: R (>= 2.6.0), rainbow, RCurl
 LazyLoad: yes
 LazyData: yes
@@ -11,6 +11,6 @@ Maintainer: Han Lin Shang <HanLin.Shang@buseco.monash.edu.au>
 Description: Functional data sets
 License: GPL (>= 2)
 URL: http://monashforecasting.com/index.php?title=R_packages
-Packaged: 2009-10-07 23:33:22 UTC; Han
+Packaged: 2009-11-03 09:00:25 UTC; han
 Repository: CRAN
-Date/Publication: 2009-10-08 12:41:18
+Date/Publication: 2009-11-03 11:42:45
