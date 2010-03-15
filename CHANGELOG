@@ -1,14 +1,18 @@
-v 1.1
+v 1.4
 
-1. remove some data sets
-2. add the read.hmd function
+1. Update the JCGS reference
+
+v 1.3
+
+1. add the European Central Bank yield curve data 
+2. add the Federal Reserve interest rate data
 
 v 1.2
 
 1. update the read.hmd function
 2. add the hmdstatistic and hmdcountry functions
- 
-v 1.3
 
-1. add the European Central Bank yield curve data 
-2. add the Federal Reserve interest rate data
+v 1.1
+
+1. remove some data sets
+2. add the read.hmd function
