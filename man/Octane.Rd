@@ -6,7 +6,7 @@
 \title{Octane content spectrometric data}
 \description{
 This data set comprises spectra from 60 gasoline samples, measured in 2 nm intervals from
-900 to 1700 nm, along with the octane numbers of the samples.
+900 to 1700 nm. The response variable is the octane numbers of the samples.
 }
 \usage{
 data(Octanespectrum)

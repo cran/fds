@@ -2,7 +2,7 @@
 \alias{SOI}
 \docType{data}
 \title{
-Monthly Southern Oscillation Index (SOI) for the period 1900-2004.
+Annual Southern Oscillation Index (SOI) for the period 1900-2004.
 }
 \description{
 Annual measures on Southern Oscillation Index (SOI): observed annual cycles in period 1900-2004.

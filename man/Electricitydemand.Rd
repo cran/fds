@@ -11,7 +11,7 @@
 \docType{data}
 \title{Electricity demand in Adelaide}
 \description{
-This data set consists of half-hourly electricity demands measured from Monday to Sunday for the same period in 9 years in Adelaide from 1996 to 2005. 
+These data sets consist of half-hourly electricity demands from Sunday to Saturday in Adelaide between 6/7/1997 and 31/3/2007. 
 }
 \usage{
 data(mondaydemand)
@@ -28,7 +28,8 @@ An object of class \code{sfts}.
 }
 \details{
 In Adelaide, the electricity demands in summer are very volatile and highly dependent on their associated 
-temperatures. Analyses were performed to test whether or not, under different temperature scenarios, there will be enough capacity to satisfy the electricity demands. 
+temperatures. Analyses were performed to test whether or not, under different temperature scenarios, 
+there will be enough capacity to satisfy the electricity demands. 
 }
 \references{
 L. Magnano and J. Boland and R. J. Hyndman (2008) "Generation of symthetic sequences of half-hourly temperature", \emph{Environmetrics}, \bold{19}(8), 818-835.

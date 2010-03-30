@@ -94,7 +94,7 @@ The following data sets are included:
 
 Mortality rates are in logarithm form for Australia, New South Wales, Victoria, Queensland, South Australia, and Western Australia.
 
-Mortality rates without log transformation are Northern Territory, Australian Captial Territory and Tasmania. These three states have either missing data or zero mortality rates. 
+Mortality rates without log transformation are: Northern Territory, Australian Captial Territory and Tasmania. These three states have either missing data or zero mortality rates. 
 
 All data are from v3.2b of the Australian Demographic Data Bank released 10 February 2005.
 }
