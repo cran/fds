@@ -1,5 +1,5 @@
-e0bce6da1fc7bd21415ec4d2aa335408 *CHANGELOG
-3de6f27d97a428cc140d6ef8ed23e30f *DESCRIPTION
+cc524a472c5d5f512304b2a8935c1ed4 *CHANGELOG
+88be7ced88e8f3c8e48a8fdeebc7884b *DESCRIPTION
 09817b45e4b71998624cfd0351706b5f *NAMESPACE
 9742aadeab5dc10625d91154b5fe96db *R/hmdcountry.R
 7f3a0fd865977d04a575b447fb33363c *R/hmdstatistic.R
@@ -98,7 +98,7 @@ be0e71736d65764aca9fb57a6f55ebd0 *man/SOI.Rd
 3c8b7fbdfe7befde1c1fedcfd40a2e88 *man/Satellite.Rd
 062e20ea984144acbb6779ecfff049bc *man/Spanishmigration.Rd
 d02a58f5648b58a1bb7e4fe6bd3f7db6 *man/Yieldcurve.Rd
-c8d074c5b70d5c7ab306a196f5230d9f *man/fds-package.Rd
+94f1910e90e9cf40c19db5e68c0091b0 *man/fds-package.Rd
 6523f36530e16993711c7134661ba282 *man/hmdcountry.Rd
 bbcb0a6e1c3b7c1f46e9cdcd3a946150 *man/hmdstatistic.Rd
 5062a887af6cfdebd13b3242d58de64e *man/read.hmd.Rd
