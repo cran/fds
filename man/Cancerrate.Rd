@@ -15,7 +15,7 @@ An object of class \code{fts}.
 plot(Cancerrate)
 }
 \source{
-Australian Institute of Health and Welfare (AIHW) website at \url{http://www.aihw.gov.au/cancer/data/index.cfm}.
+Australian Institute of Health and Welfare (AIHW) website at \url{https://www.aihw.gov.au/reports-statistics/health-conditions-disability-deaths/cancer/data}.
 }
 \references{
 B. Erbas and R. J. Hyndman and D. Gertig (2007) "Forecasting age-specific breast cancer mortality using functional data models", \emph{Statistics in Medicine}, \bold{26}(2), 458-470.

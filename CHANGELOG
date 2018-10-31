@@ -1,3 +1,9 @@
+v 1.8
+
+1. Update the URL for the read.hmd function
+2. Update the URL for the Cancerrate data, Fat data, Spanishmigration data, Yieldcurve data
+3. Update the man/fds-package.Rd
+
 v 1.7
 
 1. Change my email address

@@ -1,7 +1,7 @@
 read.hmd <-
 function (country, sex, file = "Mx_1x1.txt", username, password, yname = "Unknown") 
 {
-  path <- paste("http://www.mortality.org/hmd/", country, "/STATS/", 
+  path <- paste("https://www.mortality.org/hmd/", country, "/STATS/", 
           file, sep = "")
   userpwd <- paste(username, ":", password, sep = "")
   txt <- getURL(path, userpwd = userpwd)

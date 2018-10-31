@@ -18,7 +18,7 @@ Illiquid securities, such as treasury bills with less than one month on maturity
 with less than one year to maturity, are excluded from the samples.
 }
 \source{
-CRSP US Treasury Database (\url{http://www.crsp.com/products/treasuries.htm}).
+CRSP US Treasury Database (\url{http://www.crsp.com/products/research-products/crsp-us-treasury-database}).
 }
 \examples{
 plot(Yieldcurve)

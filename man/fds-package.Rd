@@ -12,7 +12,7 @@ Sliced functional time series is a special type of functional time series with a
 \author{
 Han Lin Shang and Rob J Hyndman
 
-Maintainer: Han Lin Shang <H.Shang@soton.ac.uk>
+Maintainer: Han Lin Shang <hanlin.shang@anu.edu.au>
 }
 \references{
 R. J. Hyndman and H. L. Shang. (2010) "Rainbow plots, bagplots, and boxplots for functional data", \emph{Journal of Computational and Graphical Statistics}, \bold{19}(1), 29-45.

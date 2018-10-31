@@ -9,3 +9,5 @@ import(
   rainbow,
   RCurl
 )
+
+importFrom("utils", "read.table")
