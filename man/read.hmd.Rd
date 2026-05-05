@@ -18,7 +18,7 @@ read.hmd(country, sex, file = "Mx_1x1.txt", username, password, yname)
   \item{yname}{Type of data.}
 }
 \details{
-In order to read the data sets, users are required to create their account via the HMD website (\url{http://www.mortality.org/}), and obtain a valid username and password. 
+In order to read the data sets, users are required to create their account via the HMD website (\url{https://www.mortality.org/}), and obtain a valid username and password. 
 }
 \value{
 An object of class \code{fts}.

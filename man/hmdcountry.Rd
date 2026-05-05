@@ -18,7 +18,7 @@ hmdcountry(Country, sex, username, password)
   \item{password}{Authenticate password.}
 }
 \details{
-In order to read the data sets, users are required to create their account via the HMD website (\url{http://www.mortality.org/}), and obtain a valid username and password. 
+In order to read the data sets, users are required to create their account via the HMD website (\url{https://www.mortality.org/}), and obtain a valid username and password. 
 }
 \value{
 List of objects of class \code{fts}.

@@ -14,7 +14,7 @@ data(SOI)
 An object of class \code{fts}.
 }
 \source{
-The data are available at the Australian Meteorological Office (\url{http://www.environment.gov.au}).
+The data are available at the Australian Bureau of Meteorology.
 }
 \examples{
 plot(SOI)

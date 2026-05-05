@@ -19,7 +19,7 @@ Note that each wave is linked with the kind of ground treated by the satellite, 
 \source{
 F. Frappart (2003). Catalogue des formes d'onde de l'altimetre topex/poseidon sur le bassin amazonien. Technical Report, CNES, Toulouse, France. 
 
-This data set can also be found at the NonParametric Functional Data Analysis website (\url{http://www.lsp.ups-tlse.fr/staph/npfda/}). 
+This data set can also be found at the NonParametric Functional Data Analysis website (\url{https://www.math.univ-toulouse.fr/~ferraty/SOFTWARES/NPFDA/}). 
 }
 \references{
 F. Ferraty and P. Vieu (2006) \emph{Nonparametric functional data analysis}, New York: Springer.

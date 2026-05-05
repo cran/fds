@@ -19,7 +19,7 @@ An object of class \code{fts}.
 This data set was calculated at the time in accordance with the European studies of population (EAPS \url{https://www.eaps.nl}) methodology of 2002, which is hetergeneous with the results calculated using the methodology EAPS in 2005.
 }
 \source{
-Instituto Nacional de Estadistica website at \url{http://www.ine.es/jaxi/menu.do?type=pcaxis&path=/t20/p311&file=inebase}.
+Instituto Nacional de Estadistica website at \url{https://www.ine.es/en/}.
 }
 \references{
 D. Reher and M. Requena (2009) "The national immigration survey of Spain. A new data source for migration studies in Europe", \emph{Demographic Research}, \bold{20}, 253-278. 

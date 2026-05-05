@@ -25,9 +25,9 @@ An object of class \code{\link[rainbow]{fds}}.
 The phonemes are transcribed as follows: "sh" as in "she", "dcl" as in "dark", "iy" as the vowel in "she", "aa" as the vowel in "dark", and "ao" as the first vowel in "water". 
 }
 \source{
-This data set is a part of the original one from the elements of statistical learning website at \url{http://www-stat.stanford.edu/ElemStatLearn}.
+This data set is a part of the original one from the "Elements of Statistical Learning" website.
 
-This data set can also be found at the NonParametric Functional Data Analysis website (\url{http://www.lsp.ups-tlse.fr/staph/npfda/}). 
+This data set can also be found at the NonParametric Functional Data Analysis website (\url{https://www.math.univ-toulouse.fr/~ferraty/SOFTWARES/NPFDA/}). 
 }
 \references{
 F. Ferraty and P. Vieu (2003) "Curve discrimination: a nonparametric functional approach", \emph{Computational Statistics and Data 

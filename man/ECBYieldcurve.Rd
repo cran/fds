@@ -17,7 +17,7 @@ An object of class \code{fts}.
 We thank Mr Sergio S. Guirreri for the permission to re-distribute this data set.
 }
 \source{
-European Central Bank: \url{http://www.ecb.europa.eu/stats/money/yc/html/index.en.html}.
+European Central Bank: \url{https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_area_yield_curves/html/index.en.html}.
 }
 \examples{
 plot(ECBYieldcurve)

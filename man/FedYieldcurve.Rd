@@ -14,9 +14,7 @@ data(FedYieldcurve)
 An object of class \code{fts}.
 }
 \source{
-Board of Governors of the Federal Reserve System at \url{http://www.federalreserve.gov/}.
-
-Data set is also available in Excel format at \url{http://www.guirreri.host22.com/web_documents/fedrates.xls}.
+Board of Governors of the Federal Reserve System at \url{https://www.federalreserve.gov/}.
 }
 \note{
 We thank Mr Sergio S. Guirreri for the permission to re-distribute this data set.

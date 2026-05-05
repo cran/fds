@@ -5,7 +5,7 @@
 \docType{data}
 \title{Fat content spectrometric data}
 \description{
-This data set is a part of the original one which can be found at \url{http://lib.stat.cmu.edu/datasets/tecator}. 
+This data set is a part of the original one which can be found at \url{https://lib.stat.cmu.edu/datasets/tecator}. 
 }
 \details{
 For each unit, we observe one spectrometric curve which corresponds to the absorbance measured at 100 wavelengths (from 852 to 1050 in step of 2nm). 
@@ -21,7 +21,7 @@ data(Fatspectrum)
 data(Fatvalues)
 }
 \source{
-NonParametric Functional Data Analysis website at \url{http://www.lsp.ups-tlse.fr/staph/npfda/}.
+NonParametric Functional Data Analysis website at \url{https://www.math.univ-toulouse.fr/~ferraty/SOFTWARES/NPFDA/}.
 }
 \references{
 C. Goutis (1998) "Second-derivative functional regression with applications to near infra-red spectroscopy", \emph{Journal of the Royal Statistical Society: Series B}, \bold{60}(1), 103-114.

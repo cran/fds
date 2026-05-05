@@ -1,3 +1,8 @@
+v 1.9
+
+1. Add the read.jpn and read.jpn_death for reading death rates and counts from Japanese Human Mortality Database
+2. Update the email address due to a change of affiliation
+
 v 1.8
 
 1. Update the URL for the read.hmd function
